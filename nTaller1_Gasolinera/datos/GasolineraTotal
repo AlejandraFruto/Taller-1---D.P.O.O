@@ -1,0 +1,13 @@
+tipo:EXTRAX:10:795.5
+tipo:CORRIENTEX:15:590.0
+tipo:PREMIUMX:14:700.0
+tipo:ULTRAX:20:585.0
+surtidor:Ernesto:EXTRAX:4.5:CORRIENTEX:0.0:PREMIUMX:0.0:ULTRAX:0.0
+surtidor:Dorian:EXTRAX:0.0:CORRIENTEX:300.0:PREMIUMX:0.0:ULTRAX:0.0
+surtidor:Ernesto:EXTRAX:0.0:CORRIENTEX:10.0:PREMIUMX:0.0:ULTRAX:15.0
+surtidor:Dorian:EXTRAX:0.0:CORRIENTEX:0.0:PREMIUMX:0.0:ULTRAX:0.0
+empleado:Dorian:4500
+empleado:Alvaro:0
+empleado:Catalina:0
+empleado:Ernesto:495
+empleado:Beatriz:0
